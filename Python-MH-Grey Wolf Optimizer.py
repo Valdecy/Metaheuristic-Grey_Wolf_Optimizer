@@ -119,7 +119,7 @@ def grey_wolf_optimizer(pack_size = 5, min_values = [-5,-5], max_values = [5,5],
 
     while (count <= iterations):
         
-        print("Iteration = ", count)
+        print("Iteration = ", count, alpha.iloc[alpha['Fitness'].idxmin(),-1])
         
         a_linear_component = 2 - count*(2/iterations)
         alpha, beta, delta = update_pack(position, alpha, beta, delta)
@@ -127,8 +127,8 @@ def grey_wolf_optimizer(pack_size = 5, min_values = [-5,-5], max_values = [5,5],
         
         count = count + 1 
         
-    print(position.iloc[position['Fitness'].idxmin(),:].copy(deep = True))    
-    return position.iloc[position['Fitness'].idxmin(),:].copy(deep = True)
+    print(alpha.iloc[alpha['Fitness'].idxmin(),:].copy(deep = True))    
+    return alpha.iloc[alpha['Fitness'].idxmin(),:].copy(deep = True)
 
 ######################## Part 1 - Usage ####################################
 
