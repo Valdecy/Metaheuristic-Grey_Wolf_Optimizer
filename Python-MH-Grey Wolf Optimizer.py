@@ -4,10 +4,10 @@
 # UFF - Universidade Federal Fluminense (Brazil)
 # email:  valdecy.pereira@gmail.com
 # Course: Metaheuristics
-# Lesson: Grey Wolf Optimization
+# Lesson: Grey Wolf Optimizer
 
 # Citation: 
-# PEREIRA, V. (2018). Project: Metaheuristic-Grey_Wolf_Optimization, File: Python-MH-Grey Wolf Optimization.py, GitHub repository: <https://github.com/Valdecy/Metaheuristic-Grey_Wolf_Optimization>
+# PEREIRA, V. (2018). Project: Metaheuristic-Grey_Wolf_Optimizer, File: Python-MH-Grey Wolf Optimizer.py, GitHub repository: <https://github.com/Valdecy/Metaheuristic-Grey_Wolf_Optimizer>
 
 ############################################################################
 
