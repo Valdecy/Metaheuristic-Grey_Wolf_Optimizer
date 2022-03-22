@@ -13,12 +13,13 @@ Grey Wolf Optimization to Minimize Functions with Continuous Variables. The func
 
 # Other Metaheuristics
 
-Try online in the **Colab**  my new library - [pyMetaheuristics](https://github.com/Valdecy/pyMetaheuristic).
+Try online in the **Colab**  my new library - [pyMetaheuristic](https://github.com/Valdecy/pyMetaheuristic).
 
 - Adaptive Random Search ([ Colab Demo ](https://colab.research.google.com/drive/1PbIjDVGAU75Dgxn6I3bpoWovvYA4RYks?usp=sharing))
 - Ant Lion Optimizer ([ Colab Demo ](https://colab.research.google.com/drive/11GWyd-o11nzwjafF37YDbReAJyjV4Zhp?usp=sharing))
 - Arithmetic Optimization Algorithm ([ Colab Demo ](https://colab.research.google.com/drive/1AH0B21_fhF4mOV5iR5MJt_JoUslYE_dt?usp=sharing))
 - Artificial Bee Colony Optimization ([ Colab Demo ](https://colab.research.google.com/drive/1IBouxcnhbNLfCoCV5ueNCq0FZBd9E2gu?usp=sharing))
+- Artificial Fish Swarm Algorithm ([ Colab Demo ](https://colab.research.google.com/drive/1OugZdsHhg2HQXMryx4AlH3-RdjjeEKlL?usp=sharing))
 - Bat Algorithm ([ Colab Demo ](https://colab.research.google.com/drive/1vbUWQ3T8B1XhPrewaFUW9uvCMGmzajk1?usp=sharing))
 - Biogeography Based Optimization ([ Colab Demo ](https://colab.research.google.com/drive/1k3wUNl2R486rkxUhTcTum3usc9f585p0?usp=sharing))
 - Cross-Entropy Method ([ Colab Demo ](https://colab.research.google.com/drive/1tI1YbjbAV_O9TdXWYfu8aAlvadC7Crm_?usp=sharing))
@@ -31,11 +32,13 @@ Try online in the **Colab**  my new library - [pyMetaheuristics](https://github.
 - Flower Pollination Algorithm ([ Colab Demo ](https://colab.research.google.com/drive/1U7gTgWwBPOWGyEQGX38nSBnBzb3WWAM1?usp=sharing))
 - Genetic Algorithm ([ Colab Demo ](https://colab.research.google.com/drive/1zY4N9Sf6odAd1hn8Z3SSww403aj2BHhh?usp=sharing))
 - Grey Wolf Optimizer ([ Colab Demo ](https://colab.research.google.com/drive/1EQqLtVs9ghQ9Cu-aFRh13hu5ZdgOf9sc?usp=sharing))
+- Grasshopper Optimization Algorithm ([ Colab Demo ](https://colab.research.google.com/drive/1Mift_Q38gvTkW6eYdkzSS6GpYZKGTwmy?usp=sharing))
 - Gravitational Search Algorithm ([ Colab Demo ](https://colab.research.google.com/drive/1swxMC2Lu9nhObGv7UO5v7eTUm9ULz79Z?usp=sharing))
 - Harris Hawks Optimization ([ Colab Demo ](https://colab.research.google.com/drive/1swYF7A0I67zX7NxXRJ1d1k1apeMWX2ix?usp=sharing))
 - Improved Grey Wolf Optimizer ([ Colab Demo ](https://colab.research.google.com/drive/1Ggu6bd6-FQkLMIrfJynF54b7JBUJaw8Z?usp=sharing))
 - Improved Whale Optimization Algorithm ([ Colab Demo ](https://colab.research.google.com/drive/1Nvuz7VEqUfUqNzEm1h2_hGhieSH3vgHY?usp=sharing))
 - Jaya ([ Colab Demo ](https://colab.research.google.com/drive/1B-1I3izW0R41_gSGjU26OGHSmy5BY4Tr?usp=sharing))
+- Jellyfish Search Optimizer ([ Colab Demo ](https://colab.research.google.com/drive/1yKkUozjzzia9W1sa8XJRNhZzFWCkcGl1?usp=sharing))
 - Memetic Algorithm ([ Colab Demo ](https://colab.research.google.com/drive/1ivRQVK8auSmU9jF3H7CYmpKLlxRHHrPd?usp=sharing))
 - Moth Flame Optimization ([ Colab Demo ](https://colab.research.google.com/drive/1-parlgNJ6urQGmNLLViGxf65PhuAS3L4?usp=sharing))
 - Multiverse Optimizer ([ Colab Demo ](https://colab.research.google.com/drive/1Qna0EHucTYRt9pCfDFzpk9uuNM9tSNKi?usp=sharing))
